@@ -2,6 +2,8 @@
 A simple iframe gadget for Cisco Finesse. Accepts URL parameter 'url' in the
 gadget layout XML to display a configurable iframe pointing at the chosen URL.
 
+This was designed for Finesse 11.5, but may also work with earlier versions.
+
 ## Usage
 Upload the 'iframe' folder to your Finesse 3rdpartygadget folder (under 'files'), and then update
 your Finesse gadget layout XML to include the iframe gadget in a new or existing
